@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Hey, I'm sshcrack <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="32" height="32" /></h1>
-    <h3>I'm a software engineer currently focused on building things for the web.</h3>
+    <h3>I'm doing some stuff here and some stuff there, little bit of arduino little bit of full stack development</h3>
     <hr>
         <h2>🌠 Try Clipture</h2>
       <a href="https://clipture.sshcrack.me">

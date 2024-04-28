@@ -2,11 +2,6 @@
     <h1>Hey, I'm sshcrack <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="32" height="32" /></h1>
     <h3>I'm doing some stuff here and some stuff there, little bit of arduino little bit of full stack development</h3>
     <hr>
-        <h2>🌠 Try Clipture</h2>
-      <a href="https://clipture.sshcrack.me">
-        <img src="https://github.com/sshcrack/sshcrack/blob/master/clipture.gif?raw=true" alt="Clipture animation" width="400">
-      </a>
-    <hr>
     <div>
         <h2>🔗 My Links</h2>
         <a href="https://sshcrack.me">
@@ -30,7 +25,7 @@
     <div>
         <h2><img src="https://github.com/sshcrack/sshcrack/blob/master/vibing.gif" width="50" height="50"/> V i b e s</h2>
         <a href="https://www.data-card-for-spotify.com">
-            <img src="https://www.data-card-for-spotify.com/api/card?user_id=252k4rpcnriafkq1xesw8rocv&show_border=1&hide_title=1&hide_explicit=1&hide_recents=0&limit=3" alt="Data Card for Spotify" width="800">
+            <img src="https://www.data-card-for-spotifsdf.com/api/card?user_id=252k4rpcnriafkq1xesw8rocv&show_border=1&hide_title=1&hide_explicit=1&hide_recents=0&limit=3" alt="Data Card for Spotify" width="800">
         </a>
     </div>
 </div>

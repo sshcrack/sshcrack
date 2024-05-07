@@ -23,6 +23,7 @@
     </div>
     <hr>
         <h2>📹 Looking for a clip platform?</h2>
+        <a href="https://github.com/lulzsun/RePlays">
     <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/pin/?username=lulzsun&repo=RePlays&show_owner=true&theme=dark"
@@ -32,10 +33,9 @@
     srcset="https://github-readme-stats.vercel.app/api/pin/?username=lulzsun&repo=RePlays&show_owner=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-        <a href="https://github.com/lulzsun/RePlays">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=lulzsun&repo=RePlays&show_owner=true" />
-        </a>
 </picture>
+        </a>
     <hr>
     <div>
         <img src="https://github.com/sshcrack/sshcrack/blob/master/vibing.gif" width="50" height="50"/>

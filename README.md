@@ -40,8 +40,8 @@
     <div>
         <img src="https://github.com/sshcrack/sshcrack/blob/master/vibing.gif" width="50" height="50"/>
         <h2>V i b e s</h2>
-        <a href="https://www.data-card-for-spotify.com">
-            <img src="https://www.data-card-for-spotifsdf.com/api/card?user_id=252k4rpcnriafkq1xesw8rocv&show_border=1&hide_title=1&hide_explicit=1&hide_recents=0&limit=3" alt="Data Card for Spotify" width="800">
+        <a>
+            <img src="https://data-card-for-spotify.herokuapp.com/card?user_id=315xvkyfekxulrv3qs736xwqe2xm&show_border=1&hide_title=1&hide_explicit=1&hide_recents=0&limit=3" alt="Data Card for Spotify" width="800">
         </a>
     </div>
 </div>

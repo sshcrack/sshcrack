@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Hey, I'm sshcrack <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="32" height="32" /></h1>
-    <h3>I'm coding some useful things, maintainer of [libobs-rs](https://github.com/joshprk/libobs-rs)</h3>
+    <h3>I'm coding some useful things, maintainer of <a href="https://github.com/joshprk/libobs-rs">libobs-rs</a></h3>
     <hr>
     <div>
         <h2>🔗 My Links</h2>

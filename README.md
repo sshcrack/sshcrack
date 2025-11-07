@@ -4,6 +4,7 @@
     <hr>
     <div>
         <h2>🔗 My Links</h2>
+<noscript><a href="https://liberapay.com/sshcrack/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
         <a href="https://sshcrack.me">
             <img src="https://img.shields.io/badge/sshcrack.me-FEE400?style=for-the-badge&logo=sshcrack.me&logoColor=white" alt="My website">
         </a>

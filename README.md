@@ -8,9 +8,6 @@
         <a href="https://sshcrack.me">
             <img src="https://img.shields.io/badge/sshcrack.me-FEE400?style=for-the-badge&logo=sshcrack.me&logoColor=white" alt="My website">
         </a>
-        <a href="https://twitter.com/sshcrack">
-            <img src="https://img.shields.io/twitter/url?label=sshcrack&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fsshcrack" alt="Twitter">
-        </a>
         <a href="mailto:hendrik@sshcrack.me">
             <img src="https://img.shields.io/badge/hendrik@sshcrack.me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="My email">
         </a>

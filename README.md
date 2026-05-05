@@ -15,24 +15,12 @@
     <hr>
     <div>
         <h2>📈 My Top Languages on GitHub</h2>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshcrack&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=10" alt="GitHub language stats" width="400">
-        </a>
+        <img src="./profile/top-langs.svg" alt="GitHub language stats" width="400" >
     </div>
     <hr>
         <h2>🪩 Need a cool led matrix?</h2>
         <a href="https://github.com/sshcrack/led-matrix">
-    <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=sshcrack&repo=led-matrix&show_owner=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=sshcrack&repo=led-matrix&show_owner=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sshcrack&repo=led-matrix&show_owner=true" />
-</picture>
+        <img src="./profile/led-mat-pin.svg" alt="Github LED mat pin" width="400" >
         </a>
     <hr>
     <div>
